@@ -1,0 +1,34 @@
+.entryTable{
+    margin: 0 auto;
+    border: 1px solid green;
+}
+.entryTable td{
+   height: 25px;
+   padding: 5px;
+   font-size: 20px;
+   font-weight: bold;
+}
+.entryTable input,select{
+    display: block;
+    width: 100%;
+    margin: .9vw 0 ;
+     font-size: 20px;
+    
+}
+.entryTable .submit{
+   display: block;
+     width: 20%;
+    margin-left: 40%;
+     font-weight: bold;
+     color:white;
+     background-color: green;
+    }
+.tableDiv{
+    
+    width:100%;
+    height:100%;
+}
+
+.entryTable th{
+    color: green;
+}
